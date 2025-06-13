@@ -1,0 +1,110 @@
+{
+  "TRUSTED_ACCOUNTS": {
+    "Major Solana DeFi Protocols": {
+      "weight": 1.0,
+      "accounts": [
+        "JupiterExchange",
+        "RaydiumProtocol",
+        "orca_so",
+        "KaminoFinance",
+        "MeteoraAG",
+        "saros_xyz",
+        "DriftProtocol",
+        "solendprotocol",
+        "MarinadeFinance",
+        "jito_labs"
+      ]
+    },
+    "NFT Projects and Marketplaces": {
+      "weight": 1.0,
+      "accounts": [
+        "MadLads",
+        "MagicEden",
+        "Lifinity_io",
+        "SolanaMBS",
+        "DegenApeAcademy",
+        "okaybears",
+        "famousfoxfed",
+        "CetsOnCreck",
+        "xNFT_Backpack",
+        "tensor_hq"
+      ]
+    },
+    "Infrastructure and Core Projects": {
+      "weight": 1.0,
+      "accounts": [
+        "wormholecrypto",
+        "helium",
+        "PythNetwork",
+        "solana",
+        "solanalabs",
+        "phantom",
+        "solflare_wallet",
+        "solanaexplorer",
+        "solanabeach_io",
+        "solanafm"
+      ]
+    },
+    "Additional DeFi and Trading Platforms": {
+      "weight": 1.0,
+      "accounts": [
+        "solanium_io",
+        "staratlas",
+        "grapeprotocol",
+        "mangomarkets",
+        "bonfida",
+        "medianetwork_",
+        "Saber_HQ",
+        "StepFinance_",
+        "tulipprotocol",
+        "SunnyAggregator"
+      ]
+    },
+    "Notable KOLs and Founders": {
+      "weight": 1.05,
+      "accounts": [
+        "aeyakovenko",
+        "rajgokal",
+        "VinnyLingham",
+        "TonyGuoga",
+        "Austin_Federa"
+      ]
+    },
+    "Media and Community": {
+      "weight": 1.0,
+      "accounts": [
+        "Wordcel_xyz",
+        "TrutsXYZ",
+        "StellarSoulNFT",
+        "superteam_xyz",
+        "Bunkr_io",
+        "candypay_xyz",
+        "solanabridge",
+        "solana_tourism",
+        "MemeDaoSOL"
+      ]
+    },
+    "Superteam Regional Chapters": {
+      "weight": 1.0,
+      "accounts": [
+        "superteamIND",
+        "superteamVN",
+        "superteamDE",
+        "superteamUK",
+        "superteamUAE",
+        "superteamNG",
+        "superteamBalkan",
+        "superteamMY",
+        "superteamFR",
+        "superteamJP",
+        "superteamSG",
+        "superteamCA",
+        "superteamTR",
+        "superteamTH",
+        "superteamPH",
+        "superteamMX",
+        "superteamBR"
+      ]
+    }
+  }
+}

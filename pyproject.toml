@@ -1,0 +1,10 @@
+[project]
+name = "trustweet"
+version = "0.1.0"
+description = "X bot for checking trustworthiness of a user."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "tweepy>=4.15.0",
+]
